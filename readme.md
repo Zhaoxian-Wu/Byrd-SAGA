@@ -1,5 +1,5 @@
 # Byrd-SAGA
-This hub store the code for paper *Byzantine-Resilient Distributed Finite-Sum Optimization over Networks*. The code can be run in the *jupyter notebook*.
+This hub store the code for paper *Byzantine-Resilient Distributed Finite-Sum Optimization over Networks* (short version) and *Federated Variance-Reduced Stochastic Gradient Descent with Robustness to Byzantine Attacks* (full version, which can be seen in `Full.pdf`). The code can be run in the *jupyter notebook*.
 
 ## Environment
 - python 3.7.4
