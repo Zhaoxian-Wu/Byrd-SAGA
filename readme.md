@@ -1,5 +1,5 @@
 # Byrd-SAGA
-This hub store the code for paper *Byzantine-Resilient Distributed Finite-Sum Optimization over Networks* (short version) and *Federated Variance-Reduced Stochastic Gradient Descent with Robustness to Byzantine Attacks* (full version, which can be seen in `Full.pdf`). The code can be run in the *jupyter notebook*.
+This hub store the code for paper *Byzantine-Resilient Distributed Finite-Sum Optimization over Networks* (short version) and *Federated Variance-Reduced Stochastic Gradient Descent with Robustness to Byzantine Attacks* (full version, which can be seen in `Full.pdf`). The code should be run in the *jupyter notebook*.
 
 ## Environment
 - python 3.7.4
@@ -7,7 +7,9 @@ This hub store the code for paper *Byzantine-Resilient Distributed Finite-Sum Op
 - matplotlib 3.1.1
 
 ## Construction
+The main programs can be found in the following files:
 - Byrd_SAGA_torch_LinearRegression.ipynb: The experiment on linear regression.
+- Byrd_SAGA_torch_ANN.ipynb: The experiment on neural network.
 - draw.ipynb: The script to draw picture.
 
 ## Runing
