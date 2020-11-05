@@ -1,5 +1,5 @@
 # Byrd-SAGA
-This hub store the code for paper *Byzantine-Resilient Distributed Finite-Sum Optimization over Networks* (short version) and *Federated Variance-Reduced Stochastic Gradient Descent with Robustness to Byzantine Attacks* (full version, which can be seen in `Full.pdf`). The code should be run in the *jupyter notebook*.
+This hub stores the code for paper *Byzantine-Resilient Distributed Finite-Sum Optimization over Networks* (short version) and *Federated Variance-Reduced Stochastic Gradient Descent with Robustness to Byzantine Attacks* (full version, which can be seen in `Full.pdf`). The code should be run in the *jupyter notebook*.
 
 ## Environment
 - python 3.7.4
@@ -17,3 +17,7 @@ Download the dataset to the file folder `./dataset` and create a file folder nam
 
 ## Download dataset
 - *ijcnn1/covtype*: [https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/)
+- *MNIST*: [http://yann.lecun.com/exdb/mnist/train-images-idx3-ubyte.gz](http://yann.lecun.com/exdb/mnist/train-images-idx3-ubyte.gz)
+
+## Acknowledgement
+We would like to thanks to Runhua Wang, SYSU, for helping us to review and improve our code.
